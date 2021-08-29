@@ -29,8 +29,8 @@ Here are some ideas to get you started:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/rrriiiyyyaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rrriiiyyyaaaa" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/riya chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya chatterjee" height="30" width="40" /></a>
-<a href="https://fb.com/riya chatterjee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riya chatterjee" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/riya-chatterjee-059710194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya chatterjee" height="30" width="40" /></a>
+<a href="https://www.facebook.com/people/Riya-Chatterjee/100010160040360/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="riya chatterjee" height="30" width="40" /></a>
 <a href="https://instagram.com/rrriiiyyyaaaaa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rrriiiyyyaaaaa" height="30" width="40" /></a>
 </p>
 

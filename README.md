@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript**
+- 🌱 I’m currently learning **Javascript and bootstraph**
 
 - 👯 I’m looking to collaborate on **Frontend Developer Projects**
 
 - 🤝 I’m looking for help with **New Technologies**
 
-- 💬 Ask me about **Anything**
+- 💬 Ask me about **CSS**
 
 - 📫 How to reach me **momochatterjee2001@gmail.com**
 

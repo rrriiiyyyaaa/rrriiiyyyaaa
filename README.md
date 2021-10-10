@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **Javascript and bootstraph**
+- 🌱 I’m currently learning **Javascript and bootstrap**
 
 - 👯 I’m looking to collaborate on **Frontend Developer Projects**
 

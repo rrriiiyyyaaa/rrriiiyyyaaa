@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrriiiyyyaaa" alt="rrriiiyyyaaa" /></a> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently learning  **Everything**
 
-- 🌱 I’m currently learning **Node.js and XML**
+- 🌱 I’m currently working on **100 days of code.**
 
 - 👯 I’m looking to collaborate on **Frontend Developer Projects**
 

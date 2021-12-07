@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrriiiyyyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="rrriiiyyyaaa" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrriiiyyyaaa" alt="rrriiiyyyaaa" /></a> </p>
-
+<img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkggcNB9IkV9u37qx985Uk7FXI3doOpPIilQ&usqp=CAU">
 - 🔭 I’m currently learning  **Everything**
 
 - 🌱 I’m currently working on **100 days of code and learning DSA.**

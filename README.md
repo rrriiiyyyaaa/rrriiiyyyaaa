@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🤝 I’m looking for help with **New Technologies**
 
-- 💬 Ask me about **CSS**
+- 💬 Ask me about **JAVA**
 
 - 📫 How to reach me **momochatterjee2001@gmail.com**
 

@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 
 --><h1 align="center">Hi 👋, I'm Riya Chatterjee</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">My area of interest lies in Problem solving  and competitive programming. Looking for opportunities in SWE/SDE roles</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rrriiiyyyaaa&label=Profile%20views&color=0e75b6&style=flat" alt="rrriiiyyyaaa" /> </p>
 

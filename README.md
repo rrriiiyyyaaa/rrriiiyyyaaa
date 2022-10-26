@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently learning **everything**
 - 🌱 I’m currently working on **100 days of code and learning DSA**
 
-- 👯 I’m looking to collaborate on **Frontend Developer Projects**
-
 - 🤝 I’m looking for help with **New Technologies**
 
 - 💬 Ask me about **JAVA**

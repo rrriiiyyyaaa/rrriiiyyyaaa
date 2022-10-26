@@ -12,8 +12,11 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rrriiiyyyaaa" alt="rrriiiyyyaaa" /></a> </p>
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkggcNB9IkV9u37qx985Uk7FXI3doOpPIilQ&usqp=CAU">
+
+
 - 🔭 I’m currently learning **everything**
-- 🌱 I’m currently working on **100 days of code and learning DSA**
+
+- 🌱 I’m currently working as a **freelancer UX designer and learning DSA**
 
 - 🤝 I’m looking for help with **New Technologies**
 

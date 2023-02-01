@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **momochatterjee2001@gmail.com**
 
-- ⚡ Fun fact **I like eating,sleeping and talking a lot.**
+- ⚡ Fun fact **I like making crafts, reading books,baking and talking a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

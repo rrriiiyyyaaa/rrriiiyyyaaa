@@ -14,13 +14,13 @@ Here are some ideas to get you started:
 <img align="right" alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSkggcNB9IkV9u37qx985Uk7FXI3doOpPIilQ&usqp=CAU">
 
 
-- 🔭 I’m currently learning **everything**
+- 🔭 I’m currently developing **my skills**
 
-- 🌱 I’m currently working as a **freelancer UX designer and developing skills.**
+- 🌱 I’m looking **to collaborate with others on designing.**
 
 - 🤝 I’m looking for help with **New Technologies**
 
-- 💬 Ask me about **JAVA**
+- 💬 Ask me about **JAVA and UX designing.**
 
 - I write articles about designing on medium. 
 

@@ -16,11 +16,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently learning **everything**
 
-- 🌱 I’m currently working as a **freelancer UX designer and learning DSA**
+- 🌱 I’m currently working as a **freelancer UX designer and developing skills.**
 
 - 🤝 I’m looking for help with **New Technologies**
 
 - 💬 Ask me about **JAVA**
+
+- I write articles about designing on medium. 
+
+- Know more about me at: biolink/riya777
 
 - 📫 How to reach me **momochatterjee2001@gmail.com**
 

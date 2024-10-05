@@ -16,11 +16,11 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently developing **my skills**
 
-- 🌱 I’m looking **to collaborate with others on designing.**
+- 🌱 I’m looking **to collaborate with others on image processing and annotation**
 
-- 🤝 I’m looking for help with **New Technologies**
+- 🤝 I’m looking for help with **Machine leaning**
 
-- 💬 Ask me about **JAVA and UX designing.**
+- 💬 Ask me about **C, data structures and UX designing.**
 
 - I write articles about designing on medium. 
 

@@ -18,17 +18,15 @@ Here are some ideas to get you started:
 
 - 🌱 I’m looking **to collaborate with others on image processing and annotation**
 
-- 🤝 I’m looking for help with **Machine leaning**
+- 🤝 I’m looking for help with **Deep leaning using CNN**
 
-- 💬 Ask me about **C, data structures and UX designing.**
+- 💬 Ask me about **C#, python and UX designing.**
 
 - I write articles about designing on medium. 
 
-- Know more about me at: biolink/riya777
-
 - 📫 How to reach me **momochatterjee2001@gmail.com**
 
-- ⚡ Fun fact **I like making crafts, reading books,baking and talking a lot.**
+- ⚡ Fun fact **I like making crafts and talking a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
